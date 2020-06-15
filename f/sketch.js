@@ -4,8 +4,8 @@ function setup() {
   createCanvas(1000, 800);
   s1 = createSlider(0, 360, 45, 1);
   s2 = createSlider(0, 360, 315, 1);
-  s3 = createSlider(0, 360, 225, 1);
-  s4 = createSlider(0, 360, 315, 1);
+ // s3 = createSlider(0, 360, 225, 1);
+  //s4 = createSlider(0, 360, 315, 1);
   r1 = 10;
   col='brown';
 }
