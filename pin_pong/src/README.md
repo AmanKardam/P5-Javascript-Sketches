@@ -148,12 +148,6 @@ class Pong {
     //b1.speedY *= -1;
 
   }
-  
   }
-
-
-
-
-
-
 }
+[Click Here To See running code](https://amankardam.github.io/P5-Javascript-Sketches/pin_pong/)
