@@ -47,6 +47,8 @@ function draw() {
 ```
 
 ### For Ball & Pong
+
+
 ``` javascript
 
 class Ball {
@@ -151,5 +153,7 @@ class Pong {
   }
   }
 }
+
 ```
+
 [Click Here To See running code](https://amankardam.github.io/P5-Javascript-Sketches/pin_pong/)
