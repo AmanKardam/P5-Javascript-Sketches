@@ -46,7 +46,7 @@ function draw() {
 
 ```
 
-### For Ball
+### For Ball & Pong
 ``` javascript
 class Ball {
   constructor(x, y, r,col='gray') {
