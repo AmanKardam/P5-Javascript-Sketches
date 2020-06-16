@@ -1,5 +1,5 @@
-# Source Code
-### For recursive Square Rotating Animation
+# Recursive Square Rotating Animation
+### Source Code 
 
 
 ``` javascript 
